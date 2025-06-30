@@ -1613,6 +1613,15 @@ body.modal{
 	display: block;
 	text-align: center;
 }
+.grax_tm_contact .grax_tm_button .but-form{
+	text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    background-color: #e54b4b;
+	border: 2px solid #e54b4b;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
 
 /*---------------------------------------------------*/
 /*	10) GRAX COPYRIGHT
